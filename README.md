@@ -24,3 +24,4 @@ node index.js
 ## Résultats attendus
 Les fichiers `data.json`, `data.xml`, et `data.proto` seront générés.
 Protobuf devrait être le plus compact et le plus rapide.
+<img width="776" height="277" alt="cap1" src="https://github.com/user-attachments/assets/c6736942-efdb-4a4f-af8b-65255cfa6de4" />
